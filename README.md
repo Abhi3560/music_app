@@ -1,4 +1,4 @@
-# Shuffler
+# music_app
 An android App which Shuffles your favorite songs in the best possible way.
 
 <h3>Objective</h3> 
